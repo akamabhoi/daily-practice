@@ -1,9 +1,20 @@
 # daily-practice
 
-My daily coding profile
+**My daily coding profile**
 
-Day01: hello, world
+1. Day 01
+   * Hello World
 
-Day02: N-Queen , Letter Combinations of a Phone Number, Factorial of number, nth fibonacci number
+2. Day 02
+   * N-Queen
+   * Letter Combinations of a Phone Number
+   * Factorial of number
+   * Nth fibonacci number
 
-Day03: Power of a number, check palindrome, reverse the array after m, power set, permutation of a string, all unique permutation
+3. Day 03
+   * Power of a number
+   * Check palindrome
+   * Reverse the array after m
+   * Power set
+   * Permutation of a string
+   * All unique permutation
