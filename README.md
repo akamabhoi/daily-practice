@@ -1,6 +1,7 @@
 # daily-practice
 
-**My daily coding profile**
+# My daily coding profile
+***
 
 1. Day 01
    * Hello World
