@@ -26,3 +26,6 @@
     * Combination Sum
     * Combination Sum ||
     * Combination Sum |||
+
+5. Day 05
+    * Solve the sudoku
