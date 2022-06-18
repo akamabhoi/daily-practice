@@ -29,3 +29,6 @@
 
 5. Day 05
     * Solve the sudoku
+
+6. Day 06
+    * Maximum Length of a Concatenated String with Unique Characters
