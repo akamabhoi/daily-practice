@@ -39,3 +39,6 @@
     * Flood Fill Algorithm
     * Word Search - |
     * Rat In A Maze
+
+8. Day 08
+    * Palindrome Partitioning
