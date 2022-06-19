@@ -38,3 +38,4 @@
     * Generate Parentheses
     * Flood Fill Algorithm
     * Word Search - |
+    * Rat In A Maze
