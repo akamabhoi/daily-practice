@@ -7,7 +7,7 @@
    * Hello World
 
 2. Day 02
-   * N-Queen
+   * [N-Queen](https://practice.geeksforgeeks.org/problems/n-queen-problem0315/1)
    * Letter Combinations of a Phone Number
    * Factorial of number
    * Nth fibonacci number
