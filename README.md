@@ -8,7 +8,7 @@
 
 2. Day 02
    * [N-Queen](https://practice.geeksforgeeks.org/problems/n-queen-problem0315/1)
-   * Letter Combinations of a Phone Number
+   * [Letter Combinations of a Phone Number](https://www.codingninjas.com/codestudio/problems/letter-combinations-of-a-phone-number_983623?source=youtube&campaign=Recursion_Fraz&utm_source=youtube&utm_medium=affiliate&utm_campaign=Recursion_Fraz)
    * Factorial of number
    * Nth fibonacci number
 
