@@ -45,3 +45,6 @@
     * [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)
     * [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
     * [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+
+9. Day 09
+    * [Topological sort](https://practice.geeksforgeeks.org/problems/topological-sort/1#)
