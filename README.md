@@ -52,3 +52,6 @@
 10. Day 10
     * [Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1#)
     * [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)
+
+11. Day 11
+    * [Course Schedule](https://leetcode.com/problems/course-schedule/)
