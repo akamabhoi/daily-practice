@@ -55,3 +55,6 @@
 
 11. Day 11
     * [Course Schedule](https://leetcode.com/problems/course-schedule/)
+
+12. Day 12
+    * [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
