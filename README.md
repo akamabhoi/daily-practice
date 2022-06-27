@@ -61,3 +61,5 @@
 
 13. Day 13
     * [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
+    * [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
+    * [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
