@@ -66,3 +66,6 @@
 
 14. Day 14
     * [Steps by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1)
+
+15. Day 15
+    * [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
