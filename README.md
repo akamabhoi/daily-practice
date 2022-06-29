@@ -69,3 +69,4 @@
 
 15. Day 15
     * [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
+    * [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)
