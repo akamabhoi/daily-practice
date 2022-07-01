@@ -73,3 +73,5 @@
 
 16. Day 16
     * [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
+    * [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)
+    * [Time Needed to Inform All Employees]()
