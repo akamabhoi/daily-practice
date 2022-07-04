@@ -78,3 +78,6 @@
 
 17. Day 17
     * [Heap Sort](https://practice.geeksforgeeks.org/problems/heap-sort/1#)
+
+18. Day 18
+    * [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
